@@ -1,0 +1,330 @@
+{
+  "business": {
+    "name": "Wood Furniture YP",
+    "shortName": "Wood Furniture YP",
+    "tagline": "Expert Custom Carpentry in Dallas, TX",
+    "niche": "Carpenter",
+    "phone": "(214) 664-0210",
+    "address": "11227 Goodnight Ln #908, Dallas, TX 75229",
+    "city": "Dallas, TX",
+    "hours": "Mon-Sat 7:00 AM - 7:00 PM",
+    "ctaLabel": "Get a Free Quote",
+    "headerCta": "Call Now"
+  },
+  "seo": {
+    "title": "Top-Rated Carpenter in Dallas, TX | Custom Furniture & Woodworking | Wood Furniture YP",
+    "description": "Wood Furniture YP offers expert custom carpentry in Dallas, TX. From custom furniture to kitchen cabinets, we deliver premium craftsmanship. Call (214) 664-0210 for a free quote."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Dallas's Trusted Carpenter Since 2010",
+      "headline": "Custom Woodwork That Transforms Your Home",
+      "subheadline": "From bespoke furniture to stunning built-ins, our skilled carpenters bring your vision to life with precision and care.",
+      "primaryCta": "Get a Free Quote",
+      "secondaryCta": "View Our Work"
+    },
+    "stats": [
+      {
+        "value": "14+",
+        "label": "Years Experience"
+      },
+      {
+        "value": "500+",
+        "label": "Projects Completed"
+      },
+      {
+        "value": "4.6",
+        "label": "Average Rating"
+      },
+      {
+        "value": "100%",
+        "label": "Satisfaction Guarantee"
+      }
+    ],
+    "featureSections": [
+      {
+        "eyebrow": "Bespoke Furniture",
+        "title": "Custom Furniture Built for Your Space",
+        "body": "Whether you need a dining table, bed frame, or shelving unit, we design and build pieces that fit your style and dimensions perfectly.",
+        "bullets": [
+          "Solid wood construction",
+          "Custom finishes and stains",
+          "Built to last for generations"
+        ],
+        "reverse": false,
+        "cardLabel": "Featured",
+        "cardTitle": "Handcrafted Dining Table",
+        "cardBody": "Our custom dining tables become the centerpiece of your home, crafted from premium hardwoods and finished to your exact taste."
+      },
+      {
+        "eyebrow": "Kitchen & Bath",
+        "title": "Custom Cabinetry That Elevates Your Home",
+        "body": "Transform your kitchen or bathroom with custom cabinets that maximize storage and enhance your home's value.",
+        "bullets": [
+          "Soft-close doors and drawers",
+          "Custom layouts for any space",
+          "Premium plywood and hardwood options"
+        ],
+        "reverse": true,
+        "cardLabel": "Popular",
+        "cardTitle": "Kitchen Cabinet Refacing",
+        "cardBody": "Give your kitchen a fresh look without the cost of full replacement. We reface cabinets with new doors and hardware."
+      }
+    ],
+    "whyTitle": "Why Choose Wood Furniture YP?",
+    "whyChooseUs": [
+      {
+        "title": "Master Craftsmanship",
+        "description": "Every piece is handcrafted with attention to detail, ensuring durability and beauty."
+      },
+      {
+        "title": "Free In-Home Consultation",
+        "description": "We visit your home to measure, discuss ideas, and provide a no-obligation quote."
+      },
+      {
+        "title": "On-Time Delivery",
+        "description": "We respect your schedule and complete projects within the agreed timeframe."
+      },
+      {
+        "title": "Satisfaction Guaranteed",
+        "description": "We stand behind our work and won't rest until you're completely happy."
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Wood Furniture YP built a custom bookshelf for my living room. The craftsmanship is outstanding and it fits perfectly.",
+        "author": "Sarah M.",
+        "role": "Highland Park Homeowner"
+      },
+      {
+        "quote": "They remodeled our kitchen cabinets and we couldn't be happier. The team was professional and the work was done ahead of schedule.",
+        "author": "James L.",
+        "role": "Lakewood Resident"
+      },
+      {
+        "quote": "I've used them for multiple projects. Their attention to detail and fair pricing keep me coming back.",
+        "author": "Patricia K.",
+        "role": "Uptown Condo Owner"
+      }
+    ],
+    "cta": {
+      "headline": "Ready to Start Your Project?",
+      "subheadline": "Contact us today for a free consultation and quote.",
+      "primaryCta": "Call (214) 664-0210",
+      "secondaryCta": "Get a Free Quote"
+    }
+  },
+  "servicesPage": {
+    "intro": "At Wood Furniture YP, we offer a full range of custom carpentry services in Dallas, TX. From furniture to cabinetry, we bring your ideas to life with expert craftsmanship."
+  },
+  "services": [
+    {
+      "icon": "01",
+      "title": "Custom Furniture",
+      "shortDescription": "Bespoke tables, chairs, beds, and more built to your specifications.",
+      "longDescription": "We design and build custom furniture that fits your space and style. Using premium hardwoods and modern techniques, we create pieces that are both functional and beautiful.",
+      "benefits": [
+        "Tailored to your exact dimensions and design",
+        "Choice of wood species, finish, and hardware",
+        "Built with traditional joinery for longevity",
+        "Free design consultation included"
+      ],
+      "process": [
+        {
+          "title": "Consultation",
+          "description": "We meet with you to understand your needs, style, and budget."
+        },
+        {
+          "title": "Design & Quote",
+          "description": "We create a detailed design and provide a transparent quote."
+        },
+        {
+          "title": "Build & Install",
+          "description": "We craft your piece in our workshop and deliver it to your home."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "What types of wood do you use?",
+          "answer": "We work with oak, maple, cherry, walnut, and more. We can also source exotic woods upon request."
+        },
+        {
+          "question": "How long does a custom furniture project take?",
+          "answer": "Typical projects take 2-4 weeks depending on complexity. We'll provide a timeline during consultation."
+        }
+      ],
+      "slug": "custom-furniture"
+    },
+    {
+      "icon": "02",
+      "title": "Kitchen Cabinets",
+      "shortDescription": "Custom kitchen cabinets that combine style and storage.",
+      "longDescription": "Upgrade your kitchen with custom cabinets designed to maximize space and reflect your taste. We offer a variety of styles, from modern to traditional, with soft-close hardware and durable finishes.",
+      "benefits": [
+        "Fully customizable layouts and finishes",
+        "Soft-close doors and drawers standard",
+        "Durable plywood construction",
+        "Increases home value"
+      ],
+      "process": [
+        {
+          "title": "Design Consultation",
+          "description": "We measure your kitchen and discuss your storage needs and style preferences."
+        },
+        {
+          "title": "Custom Fabrication",
+          "description": "Our team builds your cabinets in our shop using precision tools."
+        },
+        {
+          "title": "Professional Installation",
+          "description": "We install your cabinets, ensuring perfect fit and alignment."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Do you offer refacing services?",
+          "answer": "Yes, we can reface existing cabinets with new doors, drawers, and hardware for a fraction of the cost of replacement."
+        },
+        {
+          "question": "What is the typical timeline for kitchen cabinets?",
+          "answer": "Most kitchen cabinet projects take 4-6 weeks from design to installation."
+        }
+      ],
+      "slug": "kitchen-cabinets"
+    },
+    {
+      "icon": "03",
+      "title": "Bathroom Vanities",
+      "shortDescription": "Custom bathroom vanities that blend functionality and elegance.",
+      "longDescription": "Create a spa-like bathroom with a custom vanity. We design and build vanities with your choice of wood, countertops, and sinks, tailored to your bathroom's layout.",
+      "benefits": [
+        "Custom sizes for awkward spaces",
+        "Choice of single or double sinks",
+        "Moisture-resistant finishes",
+        "Integrated storage solutions"
+      ],
+      "process": [
+        {
+          "title": "Consultation",
+          "description": "We discuss your bathroom layout, storage needs, and design preferences."
+        },
+        {
+          "title": "Design & Material Selection",
+          "description": "We create a design and help you choose wood, finish, and countertop."
+        },
+        {
+          "title": "Fabrication & Installation",
+          "description": "We build and install your vanity, including plumbing connections."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Can you match existing bathroom fixtures?",
+          "answer": "Yes, we can match stains and paints to your existing fixtures for a cohesive look."
+        },
+        {
+          "question": "Do you supply countertops?",
+          "answer": "We can source quartz, granite, marble, or solid surface countertops to complete your vanity."
+        }
+      ],
+      "slug": "bathroom-vanities"
+    },
+    {
+      "icon": "04",
+      "title": "Built-in Shelving & Cabinets",
+      "shortDescription": "Custom built-ins that add character and storage to any room.",
+      "longDescription": "Maximize your space with custom built-in shelving, bookcases, entertainment centers, and more. Designed to fit your room perfectly, our built-ins add both function and beauty.",
+      "benefits": [
+        "Custom fit to your wall dimensions",
+        "Enhances room aesthetics",
+        "Adds valuable storage",
+        "Increases property value"
+      ],
+      "process": [
+        {
+          "title": "Site Visit & Design",
+          "description": "We measure the space and design a built-in that complements your room."
+        },
+        {
+          "title": "Craftsmanship",
+          "description": "We build your built-in in our workshop for precision."
+        },
+        {
+          "title": "Installation & Finish",
+          "description": "We install and finish the built-in, matching your trim and paint."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Can you match my existing trim and molding?",
+          "answer": "Absolutely. We can replicate existing profiles and paint colors for a seamless look."
+        },
+        {
+          "question": "How long does a built-in project take?",
+          "answer": "Most built-ins take 2-3 weeks from design to completion."
+        }
+      ],
+      "slug": "built-in-shelving-cabinets"
+    }
+  ],
+  "about": {
+    "headline": "Dallas's Premier Custom Carpenter",
+    "mission": "To provide exceptional custom woodwork that enhances homes and lives, using traditional craftsmanship and modern techniques.",
+    "story": [
+      "Wood Furniture YP was founded in 2010 by master carpenter John P. with a passion for creating beautiful, functional woodwork. What started as a small workshop has grown into a full-service carpentry business serving homeowners throughout Dallas. Our team combines decades of experience with a commitment to quality that shows in every project.",
+      "We believe that every piece of wood has potential, and every home deserves craftsmanship that stands the test of time. From custom furniture to kitchen remodels, we approach each project with the same dedication: listening to our clients, using the finest materials, and delivering results that exceed expectations."
+    ],
+    "highlight": {
+      "stat": "500+",
+      "label": "Happy Customers Served"
+    },
+    "coreValues": [
+      {
+        "title": "Quality First",
+        "description": "We never cut corners. Every joint, finish, and detail meets our high standards."
+      },
+      {
+        "title": "Customer Focus",
+        "description": "Your vision is our blueprint. We collaborate closely to bring your ideas to life."
+      },
+      {
+        "title": "Integrity",
+        "description": "Transparent pricing, honest timelines, and reliable service are the foundation of our business."
+      },
+      {
+        "title": "Craftsmanship",
+        "description": "We take pride in our work, using time-honored techniques and the best tools available."
+      }
+    ]
+  },
+  "contact": {
+    "headline": "Get Your Free Quote Today",
+    "subheadline": "Call or fill out the form to schedule a consultation.",
+    "primaryCta": "Call (214) 664-0210",
+    "formCta": "Send Message",
+    "serviceAreas": [
+      "Dallas",
+      "Highland Park",
+      "University Park",
+      "Lakewood",
+      "Uptown",
+      "Preston Hollow",
+      "Park Cities",
+      "Plano",
+      "Richardson",
+      "Garland"
+    ]
+  },
+  "social_proof": {
+    "rating": 4.6,
+    "reviews": null
+  },
+  "meta": {
+    "niche": "Carpenter",
+    "generated_by": "deepseek",
+    "review_snippets_used": 0
+  },
+  "phone_href": "tel:2146640210",
+  "current_year": 2026,
+  "header_cta": "Call Now"
+}
