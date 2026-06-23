@@ -2,39 +2,39 @@
   "business": {
     "name": "Wood Furniture YP",
     "shortName": "Wood Furniture YP",
-    "tagline": "Custom Carpentry & Woodwork in Dallas, TX",
+    "tagline": "Expert Custom Carpentry & Woodwork in Dallas, TX",
     "niche": "Carpenter",
     "phone": "(214) 664-0210",
     "address": "Done",
     "city": "Dallas, TX",
-    "hours": "Mon-Fri 8am-6pm, Sat 9am-3pm",
+    "hours": "Mon-Fri: 8am-6pm, Sat: 9am-3pm, Sun: Closed",
     "ctaLabel": "Get a Free Quote",
     "headerCta": "Call Now"
   },
   "seo": {
-    "title": "Dallas Carpenter | Custom Woodwork & Furniture | Wood Furniture YP",
-    "description": "Expert carpenter in Dallas, TX. Custom furniture, cabinets, decks & more. Free estimates. Call (214) 664-0210 today."
+    "title": "Best Carpenter in Dallas, TX | Custom Wood Furniture & Carpentry | Wood Furniture YP",
+    "description": "Wood Furniture YP is Dallas's premier carpenter specializing in custom furniture, cabinetry, and woodwork. Expert craftsmanship, free estimates. Call (214) 664-0210."
   },
   "home": {
     "hero": {
-      "eyebrow": "Dallas's Trusted Carpenter",
-      "headline": "Bringing Your Woodwork Visions to Life",
-      "subheadline": "Custom furniture, cabinetry, and outdoor structures built with precision and passion.",
-      "primaryCta": "Get a Free Quote",
-      "secondaryCta": "See Our Work"
+      "eyebrow": "Dallas's Trusted Carpenter Since 2005",
+      "headline": "Custom Woodwork & Furniture Built to Last",
+      "subheadline": "From bespoke tables to built-in cabinetry, we transform your vision into heirloom-quality pieces.",
+      "primaryCta": "Get Free Estimate",
+      "secondaryCta": "View Our Work"
     },
     "stats": [
       {
-        "value": "15+",
-        "label": "Years Experience"
+        "value": "500+",
+        "label": "Custom Projects Completed"
       },
       {
-        "value": "500+",
-        "label": "Projects Completed"
+        "value": "15+",
+        "label": "Years of Experience"
       },
       {
         "value": "100%",
-        "label": "Satisfaction Guarantee"
+        "label": "Client Satisfaction"
       },
       {
         "value": "4.9",
@@ -43,114 +43,114 @@
     ],
     "featureSections": [
       {
-        "eyebrow": "Custom Furniture",
-        "title": "Handcrafted Pieces You'll Treasure",
-        "body": "From dining tables to bed frames, each piece is designed to fit your style and space. We use premium hardwoods and time-honored joinery techniques.",
+        "eyebrow": "Bespoke Furniture",
+        "title": "Custom Furniture Designed for Your Home",
+        "body": "Our master carpenters collaborate with you to create one-of-a-kind furniture that fits your style and space. From live-edge dining tables to custom shelving, every piece is handcrafted with premium hardwoods.",
         "bullets": [
-          "Solid wood construction",
-          "Custom dimensions and finishes",
-          "Built to last a lifetime"
+          "Free in-home consultation and design",
+          "Sustainable, locally sourced materials",
+          "Hand-finished with durable, non-toxic coatings"
         ],
         "reverse": false,
         "cardLabel": "Process",
         "cardTitle": "From Sketch to Showpiece",
-        "cardBody": "We collaborate with you on design, select the finest materials, and handcraft every detail in our Dallas workshop."
+        "cardBody": "We guide you through design, material selection, and build — ensuring your piece exceeds expectations."
       },
       {
-        "eyebrow": "Outdoor Structures",
-        "title": "Transform Your Backyard",
-        "body": "Whether it's a deck, pergola, or gazebo, we create outdoor living spaces that blend beauty and function. Built to withstand Texas weather.",
+        "eyebrow": "Expert Repairs & Restoration",
+        "title": "Bring New Life to Heirloom Pieces",
+        "body": "Whether it's a wobbly chair or a century-old armoire, our restoration experts revive cherished furniture with precision and care. We preserve original character while reinforcing structure.",
         "bullets": [
-          "Custom designs for any yard",
-          "Durable, weather-resistant materials",
-          "Seamless integration with your landscape"
+          "Antique restoration and refinishing",
+          "Structural repairs and joinery",
+          "Color matching and patina preservation"
         ],
         "reverse": true,
-        "cardLabel": "Why Choose Us",
-        "cardTitle": "Local Expertise",
-        "cardBody": "We know Dallas homes and outdoor needs. Our structures are designed for both style and resilience."
+        "cardLabel": "Service",
+        "cardTitle": "Full-Service Restoration",
+        "cardBody": "We handle everything from minor fixes to full rebuilds, respecting the history of your piece."
       }
     ],
-    "whyTitle": "Why Dallas Homeowners Choose Us",
+    "whyTitle": "Why Dallas Homeowners Trust Us",
     "whyChooseUs": [
       {
-        "title": "Expert Craftsmanship",
-        "description": "Every cut, joint, and finish is handled with care. We take pride in precision and quality."
+        "title": "Master Craftsmanship",
+        "description": "Every joint, curve, and finish is executed with precision honed over 15 years of experience."
       },
       {
-        "title": "Custom Design",
-        "description": "No two projects are alike. We work with you to create exactly what you envision."
+        "title": "Personalized Service",
+        "description": "We listen to your needs and offer creative solutions that reflect your unique taste."
+      },
+      {
+        "title": "Quality Materials",
+        "description": "We source only the finest hardwoods and finishes, ensuring durability and beauty."
       },
       {
         "title": "Reliable & On Time",
-        "description": "We respect your schedule and complete projects within agreed timelines."
-      },
-      {
-        "title": "Free Consultations",
-        "description": "We'll visit your home, discuss ideas, and provide a detailed quote at no cost."
+        "description": "We respect your schedule and deliver projects on budget without compromising quality."
       }
     ],
     "testimonials": [
       {
-        "quote": "The custom dining table they built for us is stunning. Perfect craftsmanship from start to finish.",
-        "author": "Sarah M.",
+        "quote": "Wood Furniture YP transformed our dated kitchen with custom cabinetry. The craftsmanship is outstanding — every drawer slides like butter.",
+        "author": "Linda M.",
         "role": "Lakewood Homeowner"
       },
       {
-        "quote": "We hired them for a deck and pergola. The team was professional, the work was top-notch, and our backyard is now our favorite spot.",
-        "author": "James T.",
+        "quote": "We commissioned a farmhouse dining table and it's the centerpiece of our home. The team was professional and the quality is unmatched.",
+        "author": "James R.",
         "role": "Highland Park Resident"
       },
       {
-        "quote": "They turned my vague ideas into beautiful built-in bookshelves. Communication was excellent and the result exceeded expectations.",
-        "author": "Linda R.",
-        "role": "Uptown Homeowner"
+        "quote": "They restored my grandmother's rocking chair to its former glory. It looks exactly as I remembered from childhood. Thank you!",
+        "author": "Patricia K.",
+        "role": "Oak Lawn Client"
       }
     ],
     "cta": {
       "headline": "Ready to Start Your Project?",
-      "subheadline": "Contact us today for a free consultation and quote.",
+      "subheadline": "Contact us today for a free consultation and estimate.",
       "primaryCta": "Call (214) 664-0210",
-      "secondaryCta": "Get a Free Quote"
+      "secondaryCta": "Request Online Quote"
     }
   },
   "servicesPage": {
-    "intro": "We offer a full range of custom carpentry services in Dallas. From indoor furniture to outdoor structures, every project is built with quality materials and expert skill."
+    "intro": "From concept to completion, our carpentry services cover every need for your home or office. We specialize in custom furniture, cabinetry, millwork, and restoration."
   },
   "services": [
     {
       "icon": "01",
       "title": "Custom Furniture",
-      "shortDescription": "Handcrafted tables, chairs, bed frames, and more tailored to your taste.",
-      "longDescription": "We design and build one-of-a-kind furniture pieces that become the centerpiece of your home. Using select hardwoods and traditional joinery, each item is built to last generations.",
+      "shortDescription": "Design and build unique tables, chairs, beds, and more.",
+      "longDescription": "Our custom furniture service brings your ideas to life. We work with you to select wood species, finishes, and dimensions that complement your space. Every piece is handcrafted in our Dallas workshop.",
       "benefits": [
-        "Unique design that matches your decor",
-        "Superior durability compared to mass-produced furniture",
-        "Eco-friendly materials and low-VOC finishes",
-        "Personal involvement in every step"
+        "Unique design tailored to your style",
+        "Heirloom-quality construction",
+        "Wide range of wood and finish options",
+        "Free in-home consultation"
       ],
       "process": [
         {
-          "title": "Consultation & Design",
-          "description": "We meet with you to understand your needs, style, and space. We provide sketches and material options."
+          "title": "Consultation",
+          "description": "We discuss your vision, take measurements, and offer design suggestions."
         },
         {
-          "title": "Material Selection",
-          "description": "Choose from a variety of premium woods like oak, walnut, cherry, and maple."
+          "title": "Design & Quotation",
+          "description": "We provide detailed drawings and a transparent quote."
         },
         {
-          "title": "Crafting & Delivery",
-          "description": "Our team builds your piece in our workshop, then delivers and installs it in your home."
+          "title": "Build & Delivery",
+          "description": "We craft your piece and deliver it with care."
         }
       ],
       "faqs": [
         {
-          "question": "How long does it take to build a custom piece?",
-          "answer": "Most furniture projects take 4-6 weeks from design approval to delivery."
+          "question": "How long does a custom furniture piece take?",
+          "answer": "Typically 4-6 weeks from design approval, depending on complexity."
         },
         {
-          "question": "Can you match an existing style?",
-          "answer": "Absolutely. We can replicate or complement your current furniture style and finish."
+          "question": "Do you use sustainable wood?",
+          "answer": "Yes, we source from responsible suppliers and offer reclaimed options."
         }
       ],
       "slug": "custom-furniture"
@@ -158,158 +158,161 @@
     {
       "icon": "02",
       "title": "Cabinetry & Built-Ins",
-      "shortDescription": "Custom kitchen cabinets, bookshelves, and storage solutions.",
-      "longDescription": "Maximize your space with custom cabinetry and built-ins. We design functional, beautiful storage for kitchens, living rooms, home offices, and more.",
+      "shortDescription": "Custom kitchen, bathroom, and living room cabinetry.",
+      "longDescription": "Transform your storage with custom cabinets that maximize space and style. We design and install kitchen cabinets, bathroom vanities, entertainment centers, and bookshelves that blend seamlessly with your home.",
       "benefits": [
-        "Optimized storage for your specific needs",
-        "Seamless integration with your home's architecture",
-        "High-quality hardware and soft-close mechanisms",
-        "Increase home value"
+        "Maximized storage solutions",
+        "Seamless integration with existing decor",
+        "Premium hardware and soft-close features",
+        "Professional installation included"
       ],
       "process": [
         {
-          "title": "Space Assessment",
-          "description": "We measure and assess the area, discussing your storage requirements and aesthetic preferences."
+          "title": "Site Assessment",
+          "description": "We measure and evaluate the space for optimal design."
         },
         {
           "title": "Custom Design",
-          "description": "We create detailed plans and 3D renderings for your approval."
+          "description": "We create 3D renderings and select materials."
         },
         {
-          "title": "Installation",
-          "description": "Our team installs the cabinetry with precision, ensuring a perfect fit and finish."
+          "title": "Fabrication & Installation",
+          "description": "We build and install with minimal disruption."
         }
       ],
       "faqs": [
         {
-          "question": "Do you offer refacing or only new builds?",
-          "answer": "We specialize in new custom builds, but we can also reface existing cabinets if the structure is sound."
+          "question": "Can you match existing cabinetry?",
+          "answer": "Yes, we can match stains, paints, and styles to blend with your current cabinets."
         },
         {
-          "question": "What wood types do you recommend for kitchens?",
-          "answer": "Hardwoods like maple, oak, and cherry are popular for their durability and beauty."
+          "question": "Do you offer warranty on cabinets?",
+          "answer": "All our cabinetry comes with a 5-year craftsmanship warranty."
         }
       ],
       "slug": "cabinetry-built-ins"
     },
     {
       "icon": "03",
-      "title": "Decks & Pergolas",
-      "shortDescription": "Beautiful outdoor living spaces built to last.",
-      "longDescription": "Transform your backyard with a custom deck or pergola. We design structures that complement your home and landscape, using materials that resist rot and weather.",
+      "title": "Furniture Repair & Restoration",
+      "shortDescription": "Restore antiques and repair damaged furniture.",
+      "longDescription": "We breathe new life into your treasured pieces. Our restoration services include structural repairs, refinishing, reupholstery, and hardware replacement. We handle antiques with the utmost care.",
       "benefits": [
-        "Extend your living space outdoors",
-        "Increase property value",
-        "Custom sizes and layouts",
-        "Low-maintenance options available"
+        "Preserves sentimental value",
+        "Cost-effective alternative to replacement",
+        "Expert color matching and finish",
+        "Free evaluation"
       ],
       "process": [
         {
-          "title": "Site Evaluation",
-          "description": "We visit your property to assess the area, sun exposure, and soil conditions."
+          "title": "Evaluation",
+          "description": "We assess damage and provide a restoration plan."
         },
         {
-          "title": "Design & Permits",
-          "description": "We create a design tailored to your yard and handle any necessary permits."
+          "title": "Approval",
+          "description": "We present the scope and cost for your approval."
         },
         {
-          "title": "Construction",
-          "description": "Our crew builds your deck or pergola with attention to detail and safety."
+          "title": "Restoration",
+          "description": "We carefully restore the piece to its former glory."
         }
       ],
       "faqs": [
         {
-          "question": "Do you use pressure-treated wood or composites?",
-          "answer": "We offer both. Pressure-treated wood is cost-effective, while composites offer low maintenance."
+          "question": "Can you repair water damage?",
+          "answer": "Yes, we specialize in repairing water rings, warping, and finish damage."
         },
         {
-          "question": "How long does a deck installation take?",
-          "answer": "Most decks are completed within 1-2 weeks, depending on size and complexity."
+          "question": "How long does a typical restoration take?",
+          "answer": "Most projects are completed within 2-3 weeks."
         }
       ],
-      "slug": "decks-pergolas"
+      "slug": "furniture-repair-restoration"
     },
     {
       "icon": "04",
-      "title": "Trim & Molding",
-      "shortDescription": "Elegant crown molding, baseboards, and wainscoting.",
-      "longDescription": "Add character and value to your home with custom trim work. We install crown molding, baseboards, chair rails, wainscoting, and more with precise miters and seamless joints.",
+      "title": "Custom Millwork & Trim",
+      "shortDescription": "Baseboards, crown molding, wainscoting, and more.",
+      "longDescription": "Add elegance and character with custom millwork. We design and install crown molding, baseboards, wainscoting, window casings, and custom paneling. Our precision ensures perfect miters and seamless joints.",
       "benefits": [
-        "Enhance architectural detail",
-        "Hide gaps and imperfections",
-        "Increase home value and appeal",
-        "Professional finish that stands out"
+        "Enhances architectural detail",
+        "Increases home value",
+        "Custom profiles and designs",
+        "Expert installation with minimal mess"
       ],
       "process": [
         {
           "title": "Design Consultation",
-          "description": "We discuss the style and extent of trim work you desire, from simple to ornate."
+          "description": "We help you choose profiles and layout."
         },
         {
           "title": "Material Selection",
-          "description": "Choose from various wood species and profiles, or consider paintable MDF for a cost-effective option."
+          "description": "We offer MDF, solid wood, and premium composites."
         },
         {
           "title": "Installation",
-          "description": "Our carpenters install the trim with precision, ensuring clean lines and perfect corners."
+          "description": "Our team installs with meticulous attention to detail."
         }
       ],
       "faqs": [
         {
-          "question": "Can you match existing trim in my home?",
-          "answer": "Yes, we can replicate existing profiles or create a complementary design."
+          "question": "Can you match existing trim?",
+          "answer": "Yes, we can replicate existing profiles or create custom ones."
         },
         {
-          "question": "Do you paint the trim as well?",
-          "answer": "We can install primed trim, but painting is typically done by a painter. We can recommend trusted partners."
+          "question": "Do you paint the trim?",
+          "answer": "We can install primed or pre-finished, and we also offer painting services."
         }
       ],
-      "slug": "trim-molding"
+      "slug": "custom-millwork-trim"
     }
   ],
   "about": {
-    "headline": "Your Dallas Carpenter for Life",
-    "mission": "To create beautiful, functional woodwork that enhances your home and stands the test of time.",
+    "headline": "Crafting Excellence in Dallas Since 2005",
+    "mission": "To provide Dallas homeowners and businesses with exceptional custom woodwork that combines beauty, function, and longevity.",
     "story": [
-      "Wood Furniture YP was founded on a passion for woodworking and a commitment to quality. Starting as a one-man shop in a small garage, we have grown into a trusted name in Dallas carpentry. Every project, big or small, receives the same dedication to craftsmanship and customer satisfaction.",
-      "Today, we serve homeowners throughout the Dallas metro area, from custom furniture to outdoor structures. Our team of skilled carpenters combines traditional techniques with modern tools to deliver exceptional results. We believe in building relationships as sturdy as our furniture."
+      "Wood Furniture YP started as a small workshop with a passion for woodworking. Our founder, a master carpenter with over 20 years of experience, set out to create furniture that was both artistic and durable. Over the years, we've grown into a full-service carpentry studio serving clients across Dallas.",
+      "Today, we remain committed to the same principles: meticulous attention to detail, use of the finest materials, and a dedication to customer satisfaction. Every project, whether a tiny repair or a complete home renovation, receives the same level of care and expertise."
     ],
     "highlight": {
       "stat": "500+",
-      "label": "Happy Homeowners"
+      "label": "Projects Completed"
     },
     "coreValues": [
       {
         "title": "Quality First",
-        "description": "We never cut corners. Every piece is built to last."
+        "description": "We never compromise on materials or workmanship."
       },
       {
-        "title": "Customer Focus",
-        "description": "Your vision guides our work. We listen, communicate, and deliver."
+        "title": "Customer Collaboration",
+        "description": "Your vision guides every project."
       },
       {
         "title": "Integrity",
-        "description": "Honest pricing, transparent processes, and reliable timelines."
+        "description": "Honest pricing, transparent communication."
       },
       {
-        "title": "Craftsmanship",
-        "description": "We take pride in our skills and continuously refine our techniques."
+        "title": "Sustainability",
+        "description": "We prioritize eco-friendly materials and practices."
       }
     ]
   },
   "contact": {
-    "headline": "Let's Build Something Beautiful",
-    "subheadline": "Contact us for a free consultation and quote.",
+    "headline": "Let's Create Something Beautiful Together",
+    "subheadline": "Reach out for a free consultation and estimate.",
     "primaryCta": "Call (214) 664-0210",
-    "formCta": "Send Message",
+    "formCta": "Send us a message",
     "serviceAreas": [
       "Dallas",
       "Highland Park",
       "University Park",
       "Lakewood",
-      "Uptown",
+      "Oak Lawn",
       "Preston Hollow",
-      "Oak Lawn"
+      "Uptown",
+      "Plano",
+      "Richardson",
+      "Garland"
     ]
   },
   "social_proof": {
